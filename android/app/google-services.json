@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "220145147642",
+    "firebase_url": "https://pajarogram-app-dev.firebaseio.com",
+    "project_id": "pajarogram-app-dev",
+    "storage_bucket": "pajarogram-app-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220145147642:android:2323ce56d58d036b",
+        "android_client_info": {
+          "package_name": "com.flutter.pajarogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220145147642-lqkt4eso7v6a8467jcr59i0tli3iu21a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.pajarogram",
+            "certificate_hash": "3a715a34f2105b69a3c0a6443214be78e7dee6e7"
+          }
+        },
+        {
+          "client_id": "220145147642-319fvp5bcq5o5095e2ta4g4ct2kehndf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDowzWyhUDdG5X1uGRSY0fD6rwCPCOl-aI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220145147642-319fvp5bcq5o5095e2ta4g4ct2kehndf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -23,6 +23,10 @@ dependencies:
   flutter_svg: ^0.8.2
   faker: ^1.0.0
   uuid: ^1.0.3
+  google_sign_in: ^3.2.4
+  firebase_auth: ^0.6.6
+  mockito: ^4.0.0
+  test: ^1.5.1+1
 
 dev_dependencies:
   flutter_test:
@@ -41,8 +45,10 @@ flutter:
   uses-material-design: true
 
   assets:
-  - assets/mock_data.json
   - assets/
+  - assets/google_logo.png
+  - assets/mock_data.json
+
 
   # To add assets to your application, add an assets section, like this:
   # assets:
